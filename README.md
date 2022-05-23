@@ -1,1 +1,1 @@
-# string_learnJS
+# task_with_objects
